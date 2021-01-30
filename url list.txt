@@ -1,0 +1,7 @@
+url list
+
+Git Hub URL:
+https://github.com/RondaH/Goofy-H-Social-Solutions
+
+Live deployment:
+https://rondah.github.io/Goofy-H-Social-Solutions/
